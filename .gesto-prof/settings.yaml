@@ -1,4 +1,4 @@
-data_directory: "contabilidad"
-inputs_directory: "contabilidad/entradas"
-output_directory: "contabilidad/salidas"
+db_path: "contabilidad"
+inputs_dir: "contabilidad/entradas"
+output_dir: "contabilidad/salidas"
 
