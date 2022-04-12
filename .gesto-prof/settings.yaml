@@ -1,4 +1,4 @@
 db_path: "contabilidad"
-inputs_dir: "contabilidad/entradas"
-output_dir: "contabilidad/salidas"
-
+year: "2021"
+inputs_dir: "entradas"
+output_dir: "salidas"
